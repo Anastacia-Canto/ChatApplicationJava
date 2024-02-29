@@ -18,4 +18,4 @@ The program can handle with multiple clients in the same chat. All the messages 
 >   java Client
 > ```
 
-![img](https://github.com/Anastacia-Canto/ChatApplicationJava/blob/main/Screenshot%20from%202024-02-29%2017-29-35.png)
+![img](https://github.com/Anastacia-Canto/ChatApplicationJava/blob/main/Screenshot%20from%202024-02-29%2017-47-41.png)
